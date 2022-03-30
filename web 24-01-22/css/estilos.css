@@ -1,0 +1,78 @@
+        p {
+            text-align: justify;
+            padding: 10px;
+            font-size: 20px;
+        }
+
+        .contorno {
+            border: 2px red outset;
+        }
+        
+        .centrado {
+            text-align: center;
+        }
+        
+        footer {
+            padding: 20px 0;
+            border-top: 2px red outset;
+        }
+
+        .titulo {
+            font-family: 'Shojumaru', sans-serif;
+            font-size: 60px;
+            text-shadow:3px 3px 5px #000;
+        }
+
+        .slogan {
+            font-family: 'Indie Flower', cursive;
+        }
+        
+        .navegador a:hover {
+            background: rgb(255,255,255,.1);
+        }
+        
+        .logotipo {
+            border-radius: 50%;
+        }
+        
+        .rojo {
+            color: #EE0000;
+        }
+        
+        body {
+           background: #000;
+        }
+
+        .neg {
+            background: black;
+        }
+        
+        .vino {
+            background: #770000;
+        }
+
+        .vin {   
+            background: -webkit-linear-gradient(#000000, #770000);
+            background: -o-linear-gradient(#000000, #770000);
+            background: linear-gradient(#000000, #770000);
+        }
+
+        .btn-link {
+            color: white;
+        }
+    
+        .empresa {
+            background: #000;
+        }
+
+        .textformu {
+            color: #fff;
+            font-size: 20px;
+        }        
+
+        .letr {
+            font-size: 40px;
+            color: #fff;
+            text-shadow:3px 3px 5px #EE0000;
+        }
+        
